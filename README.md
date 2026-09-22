@@ -1,129 +1,141 @@
-<table>
-<tr>
-<td width="70%" valign="middle">
+<div align="center">
 
-# Felipe Santos 👋
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2FxY2gxZDd6ZGp1eWZndTdyZXRyem00am9uemQwZG1jaGduNXpnbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif" width="145" alt="Pinguim relaxando" />
 
-**Desenvolvedor de Software · foco em Backend Java/Spring**
+# Felipe Santos
+
+### Desenvolvedor de Software · Backend Java/Spring
 
 Transformo necessidades reais de operação em sistemas que funcionam no dia a dia.
 
-Minha maior profundidade está no backend, mas também trabalho com banco de dados, segurança, testes, interface e implantação. Gosto de entender o processo inteiro e acompanhar o software até ele estar pronto para uso.
-
 <a href="https://ofelipesantos.com.br/">
-  <img src="https://img.shields.io/badge/Portfólio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" />
+  <img src="https://img.shields.io/badge/PORTFÓLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" />
 </a>
 <a href="https://www.linkedin.com/in/oofelipesantos/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-</td>
-<td width="30%" align="center" valign="middle">
-
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2FxY2gxZDd6ZGp1eWZndTdyZXRyem00am9uemQwZG1jaGduNXpnbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif" width="190" alt="Pinguim relaxando" />
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## `sobre_mim`
+## Sobre mim
+
+Desenvolvo aplicações corporativas e automações, com maior profundidade em backend. Trabalho com regras de negócio, bancos relacionais, segurança, testes e implantação — sem perder de vista a experiência de quem usa o sistema.
 
 ```java
-Developer felipe = Developer.builder()
-    .foco("Backend Java/Spring")
-    .experienciaCom("SQL Server", "Android", "ERP", "Automações")
+var felipe = new Developer("Backend Java/Spring")
+    .comExperienciaEm("SQL Server", "Android", "ERP", "Automações")
     .cursando("Engenharia de Software")
-    .abertoAOportunidades(true)
-    .build();
+    .abertoAoProximoDesafio();
 ```
 
-- Desenvolvimento de sistemas corporativos e automações.
-- Experiência com aplicações web, Android e bancos relacionais.
-- Interesse em oportunidades de tecnologia no setor financeiro.
-- Curitiba, PR · disponibilidade para trabalho presencial, híbrido ou remoto.
+📍 Curitiba, PR · aberto a oportunidades presenciais, híbridas ou remotas
 
 ---
 
-## `projeto_principal`
-
-### Central de Serviços de TI
-
-**Versão 1.7.5 entregue · em produção**
-
-Sistema web desenvolvido para centralizar chamados, tarefas, SLA e a operação de uma equipe de TI. O projeto reúne regras de negócio, perfis de acesso, auditoria, relatórios, banco versionado, testes automatizados e implantação local.
-
-**Algumas evidências do projeto:**
-
-- Java 21, Spring Boot, Spring Security e JPA/Hibernate.
-- SQL Server e 32 migrations com Flyway.
-- SLA com calendário comercial, pausas e feriados.
-- Tarefas, subtarefas, responsáveis e quadros Kanban.
-- Histórico, auditoria, dashboards e relatórios operacionais.
-- 118 métodos de teste entre testes unitários e de integração.
-- Docker Compose, Apache, GitHub Actions e instalador para Windows.
-
-O código de produção é privado. A arquitetura, as decisões técnicas e as demonstrações anonimizadas estão documentadas no estudo de caso:
-
-**[Abrir estudo de caso da Central de Serviços de TI →](https://ofelipesantos.com.br/central-servicos-ti.html)**
-
----
-
-## `outros_projetos`
-
-| Projeto | Situação | Descrição |
-| --- | --- | --- |
-| **Controle de EPI e SESMT** | Concluído | Aplicação Android para entrega de EPIs, assinatura digital e rastreabilidade por colaborador. |
-| **Controle de Estoque** | Concluído | Aplicação Android voltada ao controle de estoque e à realização de inventários cíclicos. |
-| **Dashboards Operacionais** | Concluído | Painéis para consolidar dados operacionais e apoiar a visualização de indicadores. |
-| **Implantação de ERP Industrial** | Em andamento | Análise AS-IS/TO-BE, governança de dados e execução de sprints de migração. |
-
-**[Conhecer os projetos com mais detalhes →](https://ofelipesantos.com.br/projetos.html)**
-
----
-
-## `stack`
-
-### Backend e dados
-
-<p>
-  <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white" alt="Flyway" />
-</p>
-
-### Qualidade e entrega
-
-<p>
-  <img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit 5" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
-</p>
-
-### Interface e experiência complementar
-
-<p>
-  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white" alt="Thymeleaf" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Delphi-EE1F35?style=flat-square&logo=delphi&logoColor=white" alt="Delphi" />
-</p>
-
----
-
-## `momento_atual`
-
-Estou buscando oportunidades como **Desenvolvedor de Software**, principalmente com **Backend Java/Spring**, inclusive em bancos, fintechs e empresas que desenvolvem soluções para o setor financeiro.
+## Projeto em destaque
 
 <div align="center">
 
-🐧 *Se o processo dá trabalho toda semana, provavelmente existe uma boa oportunidade de transformá-lo em software.*
+<a href="https://ofelipesantos.com.br/central-servicos-ti.html">
+  <img src="https://ofelipesantos.com.br/assets/central-servicos/demo-dashboard.svg" width="880" alt="Demonstração anonimizada da Central de Serviços de TI" />
+</a>
+
+<br />
+
+<img src="https://img.shields.io/badge/versão-1.7.5-2563EB?style=flat-square" alt="Versão 1.7.5" />
+<img src="https://img.shields.io/badge/status-em%20produção-18A66A?style=flat-square" alt="Em produção" />
+<img src="https://img.shields.io/badge/Flyway-32%20migrations-CC0200?style=flat-square&logo=flyway&logoColor=white" alt="32 migrations Flyway" />
+<img src="https://img.shields.io/badge/testes-118%20métodos-25A162?style=flat-square&logo=junit5&logoColor=white" alt="118 métodos de teste" />
+
+</div>
+
+### Central de Serviços de TI
+
+Sistema web para chamados, tarefas, SLA e operação de uma equipe de TI. Desenvolvi o produto da regra de negócio à implantação local, incluindo segurança, auditoria, testes automatizados e evolução do banco de dados.
+
+**Java 21 · Spring Boot · Spring Security · JPA/Hibernate · SQL Server · Flyway · Docker**
+
+<a href="https://ofelipesantos.com.br/central-servicos-ti.html">
+  <img src="https://img.shields.io/badge/ABRIR_ESTUDO_DE_CASO-111827?style=for-the-badge&logo=readme&logoColor=white" alt="Abrir estudo de caso" />
+</a>
+
+<details>
+<summary><strong>Ver escopo técnico do projeto</strong></summary>
+
+<br />
+
+- Portal de chamados com e sem login e perfis de acesso distintos.
+- SLA com calendário comercial, pausas e feriados.
+- Tarefas, subtarefas, responsáveis e quadros Kanban.
+- Histórico, auditoria, dashboards e relatórios operacionais.
+- Testes unitários e de integração executados pelo GitHub Actions.
+- Docker Compose, Apache, configuração externa e instalador Windows.
+
+</details>
+
+> O código de produção é privado. O estudo de caso utiliza somente diagramas e dados fictícios.
+
+---
+
+## Outros projetos
+
+- **Controle de EPI e SESMT** · `concluído`<br />
+  Aplicação Android para entrega de EPIs, assinatura digital e rastreabilidade por colaborador.
+
+- **Controle de Estoque** · `concluído`<br />
+  Aplicação Android para controle de estoque e realização de inventários cíclicos.
+
+- **Dashboards Operacionais** · `concluído`<br />
+  Painéis para consolidar dados operacionais e apoiar a visualização de indicadores.
+
+- **Implantação de ERP Industrial** · `em andamento`<br />
+  Análise AS-IS/TO-BE, governança de dados e execução de sprints de migração.
+
+**[Ver todos os projetos no portfólio →](https://ofelipesantos.com.br/projetos.html)**
+
+---
+
+## Tecnologias
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="42" height="42" alt="Java" title="Java" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="42" height="42" alt="Spring" title="Spring" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" width="42" height="42" alt="Hibernate" title="Hibernate" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="42" height="42" alt="SQL Server" title="SQL Server" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" title="Docker" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="42" height="42" alt="GitHub Actions" title="GitHub Actions" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="42" height="42" alt="JUnit" title="JUnit" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="42" height="42" alt="Android" title="Android" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" title="JavaScript" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" height="42" alt="Git" title="Git" />
+</p>
+
+<p align="center">
+  Java 21 · Spring Boot · Spring Security · JPA/Hibernate · SQL Server · Flyway<br />
+  JUnit · Mockito · Docker · GitHub Actions · Thymeleaf · JavaScript · Android
+</p>
+
+---
+
+## Próximo desafio
+
+Busco oportunidades como **Desenvolvedor de Software**, principalmente com **Backend Java/Spring**, inclusive em bancos, fintechs e empresas que desenvolvem soluções para o setor financeiro.
+
+<div align="center">
+
+**[Vamos conversar pelo LinkedIn](https://www.linkedin.com/in/oofelipesantos/)**
+
+🐧 *Se um processo dá trabalho toda semana, provavelmente existe uma boa oportunidade de transformá-lo em software.*
 
 </div>
