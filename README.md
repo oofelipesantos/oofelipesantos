@@ -130,8 +130,7 @@ Sistema web para chamados, tarefas, SLA e operação de uma equipe de TI. Desenv
 
 ## Próximo desafio
 
-Busco oportunidades como **Desenvolvedor de Software**, principalmente com **Backend Java/Spring**, inclusive em bancos, fintechs e empresas que desenvolvem soluções para o setor financeiro.
-
+Busco oportunidades como Desenvolvedor de Software, com foco em Backend, Java/Spring, APIs, integrações e bancos de dados, contribuindo no desenvolvimento de sistemas escaláveis e soluções voltadas a problemas reais de negócio.
 <div align="center">
 
 **[Vamos conversar pelo LinkedIn](https://www.linkedin.com/in/oofelipesantos/)**
